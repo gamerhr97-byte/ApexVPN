@@ -1,0 +1,177 @@
+[
+  {
+    "path": "libssl-3-x64.dll",
+    "size": 779264,
+    "sha256": "2366900c040faa77ef6f4e004907fa737bf591dbdaa18fea13bfaa232ff3d055"
+  },
+  {
+    "path": "Qt6Widgets.dll",
+    "size": 6461952,
+    "sha256": "254fdae39b154253d1db4b5acc0afd7e5afb1cedced8512b3901724182d53e7a"
+  },
+  {
+    "path": "geosite.dat",
+    "size": 2159213,
+    "sha256": "e414da6132d8b406827b827f246c3fe9759530d61f191b866836fe4d0a7b13a4"
+  },
+  {
+    "path": "nekobox.exe",
+    "size": 3322368,
+    "sha256": "12676044ad512248f56432ea3e2fb0ba6808e185048836ab0f0f4e272fe36f5a"
+  },
+  {
+    "path": "libcrypto-3-x64.dll",
+    "size": 4648960,
+    "sha256": "4743f5437f2df3a49889e760b0807c30bc65186cf0ae8c3539b2753b069a1591"
+  },
+  {
+    "path": "nekobox_core.exe",
+    "size": 32555520,
+    "sha256": "b365388ee5f53edd453a7a461e3f58e05c63eebcc39c681070f05f2eacfd4c6d"
+  },
+  {
+    "path": "Qt6Svg.dll",
+    "size": 493056,
+    "sha256": "d8364336d94f426a9d3e66df0b61b0cf2c74df6d1e97b8ea5e1e27fdbbb829ce"
+  },
+  {
+    "path": "qtbase_zh_CN.qm",
+    "size": 133919,
+    "sha256": "bea8bb3c520588f652c9dd9f5f37b05e8ecb31544fdd64a4457dfb48252c6a9b"
+  },
+  {
+    "path": "nekobox.png",
+    "size": 64105,
+    "sha256": "b47c2a75c8b3a9ce9d0162a4409b3b31b79dc222b2ee9623c50f1bb11f5abfe2"
+  },
+  {
+    "path": "Qt6Network.dll",
+    "size": 1715712,
+    "sha256": "1cee17b97e8940ac1f2f4a44840d0564c5622172e69e349984e776b1ae415f81"
+  },
+  {
+    "path": "geoip.db",
+    "size": 3330279,
+    "sha256": "c801efffb30e5b172f6579872252b6f56638e7caf3cf95e1fb5468ee04229380"
+  },
+  {
+    "path": "geosite.db",
+    "size": 3498598,
+    "sha256": "321d2e7919156e68684adeef9d3a28a43c4d110fc4d11742a41d1746ac16d244"
+  },
+  {
+    "path": "geoip.dat",
+    "size": 15621239,
+    "sha256": "f3a1e30d3d83fddf9fbd36c86315141ec110f62435ebd7f1e0121627eea82f6c"
+  },
+  {
+    "path": "Qt6Core.dll",
+    "size": 6276608,
+    "sha256": "e96ca72ff773eac9fee1378050020bf46f914f0a1ee8b7d4d977fafcaaabcc61"
+  },
+  {
+    "path": "dxcompiler.dll",
+    "size": 12601808,
+    "sha256": "fa456caa77884204882e3812cfd4765041feef1572e9ed968fb4caaf37201ab4"
+  },
+  {
+    "path": "updater.exe",
+    "size": 2288640,
+    "sha256": "d8cc758042fcdc989e8d678a79cd0a02cff954902da921ef797e23d040253048"
+  },
+  {
+    "path": "Qt6Gui.dll",
+    "size": 8651264,
+    "sha256": "a0f15dcd7944685027aa5225a3585bc2a4e009dc714aacfd6b1b1b2a1209b27d"
+  },
+  {
+    "path": "dxil.dll",
+    "size": 1502784,
+    "sha256": "a3f47d552d06c8a9749aeeebe9fda895fc7ee3375a36bc9b7cc11b5a2baec372"
+  },
+  {
+    "path": "styles/qmodernwindowsstyle.dll",
+    "size": 193536,
+    "sha256": "d5f8d170e7362122f3ccb18ce854950c0958946646fa31ceb49360dcfb5ef787"
+  },
+  {
+    "path": "generic/qtuiotouchplugin.dll",
+    "size": 88064,
+    "sha256": "58f1a68b23e5821f30d4424d2b01b34b95eb83c1a8ed7aabcc65a72ae84e0b71"
+  },
+  {
+    "path": "iconengines/qsvgicon.dll",
+    "size": 64000,
+    "sha256": "48cf1dfe6417d14fcaed4931371b72a0e2f397d29e199b577daf9a503cd7d514"
+  },
+  {
+    "path": "tls/qschannelbackend.dll",
+    "size": 239104,
+    "sha256": "7dce74dbd96969e6e135c0ab8bb0d8bf89cb7b4889bffcef2c908db1d5e8e647"
+  },
+  {
+    "path": "tls/qcertonlybackend.dll",
+    "size": 89088,
+    "sha256": "95b3ed2c5267c074337c6630da0bdee2a33276a8ef7f2daf6b0f8cce473aa13b"
+  },
+  {
+    "path": "tls/qopensslbackend.dll",
+    "size": 228864,
+    "sha256": "7d9031f3c616895d224e6a806b6efd2e8e1b5664ed4fed15b8c43a5753ebb003"
+  },
+  {
+    "path": "networkinformation/qnetworklistmanager.dll",
+    "size": 58368,
+    "sha256": "0776cd724448ef022c94b429993bd88408b2b2a78f5ec2f04c4a5a363f0b4e26"
+  },
+  {
+    "path": "platforms/qwindows.dll",
+    "size": 881152,
+    "sha256": "c99272c2620da21467d37c7c68788ac864a4b472dc71f24814fbd21c8b9dd266"
+  },
+  {
+    "path": "imageformats/qjpeg.dll",
+    "size": 557056,
+    "sha256": "8a0bc953e79d35460efe7555af06fb66b6fcb1e9b769f8bbd0ceebdd044173d2"
+  },
+  {
+    "path": "imageformats/qwebp.dll",
+    "size": 540672,
+    "sha256": "5af0237b83441ed3890a7e5e08a1925f47686b9f37f736f0fd10d9b859771a98"
+  },
+  {
+    "path": "imageformats/qtga.dll",
+    "size": 26112,
+    "sha256": "881ef0545be4c65109f5ea4bf34ad8d29ede84905612c8a15e749565afc810e1"
+  },
+  {
+    "path": "imageformats/qico.dll",
+    "size": 34304,
+    "sha256": "2ba002a2c3ab1e0f06db53d0b76306e2fd2730aac99f881914a0e310a5bb51a2"
+  },
+  {
+    "path": "imageformats/qgif.dll",
+    "size": 35840,
+    "sha256": "e147641921f15a8828c7a00edc5aef90d484407c5939cf39c07ba9f021ce4395"
+  },
+  {
+    "path": "imageformats/qwbmp.dll",
+    "size": 24576,
+    "sha256": "b46a7aa7f3b5b8f9c7e3b2eb92060fc35c8446ea2f374d8fb74f872795fb0af9"
+  },
+  {
+    "path": "imageformats/qicns.dll",
+    "size": 43008,
+    "sha256": "d9b97c5cc9016070ca1154947b844c351cd467acee88884b7455bb1391124882"
+  },
+  {
+    "path": "imageformats/qsvg.dll",
+    "size": 27648,
+    "sha256": "139212bd14f8295a33a2e3abb02aef23f3e1cd7691619a78c52721e22ccec536"
+  },
+  {
+    "path": "imageformats/qtiff.dll",
+    "size": 418816,
+    "sha256": "00edc1b1ec6c086393c951825eaa5eef53c10c38e4dbd43c2e4ecbf43de4308c"
+  }
+]

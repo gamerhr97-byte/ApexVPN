@@ -1,0 +1,39 @@
+{
+  "ShadowBox.exe": {
+    "x64": true,
+    "gui": true,
+    "version": "0.10.0",
+    "version_resource_present": true,
+    "authenticode_certificate_table_bytes": 0,
+    "imports": [
+      "USER32.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-private-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "KERNEL32.dll",
+      "api-ms-win-crt-math-l1-1-0.dll",
+      "api-ms-win-crt-environment-l1-1-0.dll"
+    ]
+  },
+  "ShadowBoxHost.exe": {
+    "x64": true,
+    "gui": true,
+    "version": "0.10.0",
+    "version_resource_present": true,
+    "authenticode_certificate_table_bytes": 0,
+    "imports": [
+      "USER32.dll",
+      "SHELL32.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-private-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "KERNEL32.dll",
+      "api-ms-win-crt-math-l1-1-0.dll",
+      "api-ms-win-crt-environment-l1-1-0.dll"
+    ]
+  }
+}

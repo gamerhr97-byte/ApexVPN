@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.762" timestamp="2026-10-21T13:38:20.944085+02:00" hostname="489cb5527bd1"><testcase classname="tests.test_settings" name="test_core_verified_local_install_and_rollback" time="0.635" /></testsuite></testsuites>

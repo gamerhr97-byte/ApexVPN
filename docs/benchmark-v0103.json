@@ -1,0 +1,14 @@
+{
+  "kind": "synthetic-network-latency-not-real-internet",
+  "profiles": 10000,
+  "simulated_delay_seconds": 0.01,
+  "workers": 128,
+  "elapsed_seconds": 1.0,
+  "results": 10000,
+  "jobs": 10000,
+  "same_endpoint_dedup": {
+    "profiles": 10000,
+    "jobs": 1,
+    "results": 10000
+  }
+}

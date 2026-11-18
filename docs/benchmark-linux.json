@@ -1,0 +1,8 @@
+{
+  "host": "Linux x86_64; Qt offscreen; empty profiles; networking core stopped",
+  "import_to_first_render_seconds": 0.187,
+  "idle_window_seconds": 4.781,
+  "idle_cpu_seconds": 0.00098,
+  "idle_one_core_cpu_percent": 0.02,
+  "peak_rss_mib": 69.43
+}

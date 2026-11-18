@@ -1,0 +1,22 @@
+{
+  "version": "0.10.7",
+  "source_compileall": "passed",
+  "native_launcher_host": "built x64 with Zig",
+  "installer": {
+    "installer": "ApexVPN-0.10.7-Setup-x64.exe",
+    "size_bytes": 139886324,
+    "sha256": "b5a9dd69f7d65d806cf91c81758410af115b7631edd6a62c1c605d098f304b00",
+    "payload_file_count": 3172,
+    "crc_passed": true,
+    "all_payload_hashes_passed": true,
+    "x64_launchers_and_host_passed": true,
+    "installed_mode_only": true,
+    "windows_execution": false
+  },
+  "tests": "not run for this change",
+  "windows_execution_verified": false,
+  "important_limits": [
+    "Windows setup, Win+R, App Paths, EcoQoS Task Manager indicator, uninstall flow, DPAPI and WinINET not executed here",
+    "Installer is unsigned"
+  ]
+}

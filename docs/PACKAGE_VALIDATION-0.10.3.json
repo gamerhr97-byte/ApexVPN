@@ -1,0 +1,48 @@
+{
+  "version": "0.10.3",
+  "kind": "complete-portable-windows-x64",
+  "native_pe_architecture": "x86_64",
+  "native_version_resources": "0.10.3",
+  "required_paths_present": [
+    "ShadowBox.exe",
+    "runtime/ShadowBoxHost.exe",
+    "runtime/ShadowBoxHost._pth",
+    "runtime/python313.dll",
+    "runtime/PySide6/plugins/platforms/qwindows.dll",
+    "runtime/PySide6/QtSvg.pyd",
+    "runtime/yaml/_yaml.cp313-win_amd64.pyd",
+    "core/xray.exe",
+    "core/sing-box.exe",
+    "app.py",
+    "assets/services/gemini.png"
+  ],
+  "windows_execution_verified": false,
+  "singbox_real_traffic_verified": false,
+  "xray_local_integration_in_full_pytest": true,
+  "full_pytest": {
+    "passed": 199,
+    "skipped": 2
+  },
+  "focused_pytest": {
+    "passed": 16,
+    "skipped": 1
+  },
+  "overlapping_test_runs": true,
+  "service_count": 100,
+  "local_favicons": 200,
+  "default_https_site_probes": 5,
+  "default_connect_site_probes": 95,
+  "coverage_badge_minimum": 76,
+  "default_tcp_workers": 128,
+  "binary_sha256": {
+    "ShadowBox.exe": "85148073c9f8836b7ec9a256f3f76e5aaac30b0718c141c67ff7cfafe9c46d19",
+    "runtime/ShadowBoxHost.exe": "c44d44d368e3fc5e2cb280f76dbc0b59526a8ef4c59f64c52090e44cbece3bf1",
+    "core/xray.exe": "15c2d007954ac53ba69b80ec91242786b3c0b71d52649165b4ca1d5cc96ef8f1",
+    "core/sing-box.exe": "8f30682ee198855440d2a7fe070d5d3653793b2d01bb8c85eea88f93bbe7c8b9"
+  },
+  "storage_focused_pytest": {
+    "passed": 51,
+    "skipped": 1
+  },
+  "shared_source_documents": "deduplicated within protected atomic catalog; legacy payloads readable"
+}

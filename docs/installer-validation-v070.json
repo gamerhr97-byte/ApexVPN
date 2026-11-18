@@ -1,0 +1,61 @@
+{
+  "format": "NSIS 3 Unicode offline Windows installer",
+  "installer_bytes": 68538770,
+  "installer_sha256": "1f50b4b034f74cfc150f3e68c147a984686da3e8dc7c799403603e68ed688805",
+  "payload_files_compared": 2771,
+  "payload_hashes_match": true,
+  "application_source_matches": true,
+  "native_icon_resource_present": true,
+  "launcher_machine": "AMD64",
+  "publisher_signature": "unsigned",
+  "scanned_native_binaries": 274,
+  "tests": {
+    "passed": 131,
+    "failed": 0,
+    "seconds": 56.9
+  },
+  "actual_windows_execution": false,
+  "active_native_dependency_closure_checked": 54,
+  "active_missing_bundled_imports": {},
+  "unused_optional_qt_addon_plugin_imports": {
+    "qt6pdfquick.dll": [
+      "runtime/PySide6/qml/QtQuick/Pdf/pdfquickplugin.dll"
+    ],
+    "qt63dquickscene3d.dll": [
+      "runtime/PySide6/qml/QtQuick/Scene3D/qtquickscene3dplugin.dll"
+    ],
+    "qt6virtualkeyboard.dll": [
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/qtvkbplugin.dll",
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/Plugins/Hangul/qtvkbhangulplugin.dll",
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/Plugins/TCIme/qtvkbtcimeplugin.dll",
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/Plugins/Pinyin/qtvkbpinyinplugin.dll",
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/Plugins/OpenWNN/qtvkbopenwnnplugin.dll",
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/Plugins/Thai/qtvkbthaiplugin.dll",
+      "runtime/PySide6/plugins/platforminputcontexts/qtvirtualkeyboardplugin.dll"
+    ],
+    "qt63dquickscene2d.dll": [
+      "runtime/PySide6/qml/QtQuick/Scene2D/qtquickscene2dplugin.dll"
+    ],
+    "qt6virtualkeyboardsettings.dll": [
+      "runtime/PySide6/qml/QtQuick/VirtualKeyboard/Settings/qtvkbsettingsplugin.dll"
+    ],
+    "qt6statemachineqml.dll": [
+      "runtime/PySide6/qml/QtQml/StateMachine/qtqmlstatemachineplugin.dll"
+    ],
+    "qt6quick3dutils.dll": [
+      "runtime/PySide6/plugins/qmltooling/qmldbg_quick3dprofiler.dll"
+    ],
+    "mimapi64.dll": [
+      "runtime/PySide6/plugins/sqldrivers/qsqlmimer.dll"
+    ],
+    "libpq.dll": [
+      "runtime/PySide6/plugins/sqldrivers/qsqlpsql.dll"
+    ],
+    "qt6webenginewidgets.dll": [
+      "runtime/PySide6/plugins/designer/qwebengineview.dll"
+    ],
+    "qt6pdf.dll": [
+      "runtime/PySide6/plugins/imageformats/qpdf.dll"
+    ]
+  }
+}

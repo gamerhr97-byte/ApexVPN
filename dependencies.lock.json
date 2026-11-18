@@ -1,0 +1,20 @@
+{
+  "Xray": "26.10.21",
+  "Python-Windows": "3.13.9",
+  "Qt-PySide6": "6.8.3",
+  "launcher-compiler": "Zig 0.13.0",
+  "sha256": {
+    "PySide6_Essentials-6.8.3-cp39-abi3-win_amd64.whl": "3c0fae5550aff69f2166f46476c36e0ef56ce73d84829eac4559770b0c034b07",
+    "python-3.13.9-embed-amd64.zip": "91d828c2da3a029b41699e918674a0cb379c02cf20dab9c501306885f837402a",
+    "Xray-windows-64.zip": "fc58c39ee2f2717b4c54d28d374362389e5319b20ae44aea76ea45a5243ec827",
+    "shiboken6-6.8.3-cp39-abi3-win_amd64.whl": "bca3a94513ce9242f7d4bbdca902072a1631888e0aa3a8711a52cc5dbe93588f",
+    "Xray-linux-64.zip": "0eec3ed4163c273d8c8bf821f7d219e257921cf584aa3fb970715e458e631978",
+    "zxing_cpp-2.3.0-cp313-cp313-win_amd64.whl": "971dad40c4765eeb74a4f4557889053b934484ad8c7f9d64c412d3a3d8441f3f",
+    "pillow-11.1.0-cp313-cp313-win_amd64.whl": "593c5fd6be85da83656b93ffcccc2312d2d149d251e98588b14fbc288fd8909c",
+    "PyYAML-6.0.2-cp313-cp313-win_amd64.whl": "8388ee1976c416731879ac16da0aff3f63b286ffdd57cdeb95f3f2e085687563"
+  },
+  "QR-decoder": "zxing-cpp 2.3.0",
+  "Image-loader": "Pillow 11.1.0",
+  "country-flag-assets": "lipis/flag-icons v7.3.2, MIT",
+  "YAML-parser": "PyYAML 6.0.2"
+}

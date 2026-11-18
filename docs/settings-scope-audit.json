@@ -1,0 +1,32 @@
+{
+  "protected_methods_identical": [
+    "build_dashboard",
+    "build_servers",
+    "build_add_sheet",
+    "build_diagnostics"
+  ],
+  "presentation_file_identical": true,
+  "native_render_comparison": {
+    "home": {
+      "size": [
+        468,
+        740
+      ],
+      "pixels_identical": true
+    },
+    "servers": {
+      "size": [
+        1000,
+        760
+      ],
+      "pixels_identical": true
+    },
+    "diagnostics": {
+      "size": [
+        1000,
+        760
+      ],
+      "pixels_identical": true
+    }
+  }
+}

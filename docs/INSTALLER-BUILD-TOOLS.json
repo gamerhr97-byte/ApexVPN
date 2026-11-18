@@ -1,0 +1,10 @@
+{
+  "source": "https://archive.ubuntu.com/ubuntu/pool/universe/",
+  "packages_sha256": {
+    "nsis_3.09-4ubuntu1_amd64.deb": "9e061bef1a8b611aeb2ea76d9a3bd7722b960ca1a9dff8e38d2ab51e5a8f5e5b",
+    "7zip_23.01+dfsg-11_amd64.deb": "0f79450d81e64326a862a8645ae1613890e486115101e51e41ca07d929388d87",
+    "nsis-common_3.09-4ubuntu1_all.deb": "49471b9debdee4751ebb4caf6b705cc4c678eebfaecefbe56362258893f85859"
+  },
+  "nsis_version": "3.09-4ubuntu1",
+  "purpose": "offline EXE compiler and NSIS payload inspection; not installed on the user PC"
+}

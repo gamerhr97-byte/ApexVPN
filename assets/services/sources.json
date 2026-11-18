@@ -1,0 +1,1994 @@
+[
+  {
+    "key": "youtube",
+    "name": "YouTube",
+    "source": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "gemini",
+    "name": "Gemini",
+    "source": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "chatgpt",
+    "name": "ChatGPT",
+    "source": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "telegram",
+    "name": "Telegram",
+    "source": "https://www.google.com/s2/favicons?domain=web.telegram.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "instagram",
+    "name": "Instagram",
+    "source": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "whatsapp",
+    "name": "WhatsApp",
+    "ok": true,
+    "source": "https://www.whatsapp.com/favicon.ico"
+  },
+  {
+    "key": "discord",
+    "name": "Discord",
+    "source": "https://www.google.com/s2/favicons?domain=discord.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "netflix",
+    "name": "Netflix",
+    "source": "https://www.google.com/s2/favicons?domain=www.netflix.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "spotify",
+    "name": "Spotify",
+    "source": "https://www.google.com/s2/favicons?domain=open.spotify.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "github",
+    "name": "GitHub",
+    "source": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "google",
+    "name": "Google",
+    "source": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "drive",
+    "name": "Google Drive",
+    "source": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "microsoft",
+    "name": "Microsoft",
+    "source": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "reddit",
+    "name": "Reddit",
+    "source": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "wikipedia",
+    "name": "Wikipedia",
+    "source": "https://www.google.com/s2/favicons?domain=www.wikipedia.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "stackoverflow",
+    "name": "Stack Overflow",
+    "source": "https://www.google.com/s2/favicons?domain=stackoverflow.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site0",
+    "name": "Google Flow",
+    "source": "https://www.google.com/s2/favicons?domain=labs.google&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site1",
+    "name": "Cloudflare",
+    "source": "https://www.google.com/s2/favicons?domain=www.cloudflare.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site2",
+    "name": "Dota 2",
+    "source": "https://www.google.com/s2/favicons?domain=www.dota2.com&sz=64",
+    "size": [
+      16,
+      16
+    ],
+    "ok": true
+  },
+  {
+    "key": "site3",
+    "name": "Steam",
+    "source": "https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site4",
+    "name": "Claude",
+    "source": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site5",
+    "name": "Anthropic",
+    "source": "https://www.google.com/s2/favicons?domain=www.anthropic.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site6",
+    "name": "OpenAI",
+    "source": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site7",
+    "name": "Google AI Studio",
+    "source": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site8",
+    "name": "Google Labs",
+    "source": "https://www.google.com/s2/favicons?domain=labs.google&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site9",
+    "name": "Google Maps",
+    "source": "https://www.google.com/s2/favicons?domain=maps.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site10",
+    "name": "Gmail",
+    "source": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site11",
+    "name": "Google Photos",
+    "source": "https://www.google.com/s2/favicons?domain=photos.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site12",
+    "name": "Google Docs",
+    "source": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site13",
+    "name": "Google Sheets",
+    "source": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site14",
+    "name": "Google Slides",
+    "source": "https://ssl.gstatic.com/docs/presentations/images/favicon5.ico",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site15",
+    "name": "Google Calendar",
+    "source": "https://calendar.google.com/googlecalendar/images/favicons_2020q4/calendar_31.ico",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site16",
+    "name": "Google Meet",
+    "source": "https://www.google.com/s2/favicons?domain=meet.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site17",
+    "name": "Google Translate",
+    "source": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site18",
+    "name": "Google Play",
+    "source": "https://www.google.com/s2/favicons?domain=play.google.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site19",
+    "name": "Google News",
+    "source": "https://www.google.com/s2/favicons?domain=news.google.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site20",
+    "name": "Google Fonts",
+    "source": "https://www.google.com/s2/favicons?domain=fonts.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site21",
+    "name": "Google Scholar",
+    "source": "https://www.google.com/s2/favicons?domain=scholar.google.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site22",
+    "name": "Google Cloud",
+    "source": "https://www.google.com/s2/favicons?domain=cloud.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site23",
+    "name": "Firebase",
+    "source": "https://www.google.com/s2/favicons?domain=firebase.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site24",
+    "name": "Colab",
+    "source": "https://colab.research.google.com/favicon.ico",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site25",
+    "name": "Kaggle",
+    "source": "https://www.google.com/s2/favicons?domain=www.kaggle.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site26",
+    "name": "Hugging Face",
+    "source": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site27",
+    "name": "Perplexity",
+    "source": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site28",
+    "name": "Poe",
+    "source": "https://www.google.com/s2/favicons?domain=poe.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site29",
+    "name": "Mistral",
+    "source": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site30",
+    "name": "DeepSeek",
+    "source": "https://www.google.com/s2/favicons?domain=www.deepseek.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site31",
+    "name": "Grok",
+    "source": "https://www.google.com/s2/favicons?domain=grok.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site32",
+    "name": "Runway",
+    "source": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site33",
+    "name": "Midjourney",
+    "source": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site34",
+    "name": "Leonardo",
+    "source": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site35",
+    "name": "Ideogram",
+    "source": "https://www.google.com/s2/favicons?domain=ideogram.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site36",
+    "name": "Suno",
+    "source": "https://www.google.com/s2/favicons?domain=suno.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site37",
+    "name": "ElevenLabs",
+    "source": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site38",
+    "name": "Replicate",
+    "source": "https://www.google.com/s2/favicons?domain=replicate.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site39",
+    "name": "Together AI",
+    "source": "https://www.google.com/s2/favicons?domain=www.together.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site40",
+    "name": "Groq",
+    "source": "https://www.google.com/s2/favicons?domain=groq.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site41",
+    "name": "Cohere",
+    "source": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site42",
+    "name": "Cursor",
+    "source": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site43",
+    "name": "Windsurf",
+    "source": "https://www.google.com/s2/favicons?domain=windsurf.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site44",
+    "name": "Replit",
+    "source": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site45",
+    "name": "Bolt",
+    "source": "https://www.google.com/s2/favicons?domain=bolt.new&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site46",
+    "name": "Lovable",
+    "source": "https://www.google.com/s2/favicons?domain=lovable.dev&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site47",
+    "name": "v0",
+    "source": "https://www.google.com/s2/favicons?domain=v0.dev&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site48",
+    "name": "NotebookLM",
+    "source": "https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site49",
+    "name": "Character AI",
+    "source": "https://www.google.com/s2/favicons?domain=character.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site50",
+    "name": "Meta AI",
+    "source": "https://www.google.com/s2/favicons?domain=www.meta.ai&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site51",
+    "name": "Adobe Firefly",
+    "source": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site52",
+    "name": "Adobe",
+    "source": "https://www.google.com/s2/favicons?domain=www.adobe.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site53",
+    "name": "Behance",
+    "source": "https://www.google.com/s2/favicons?domain=www.behance.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site54",
+    "name": "Dribbble",
+    "source": "https://www.google.com/s2/favicons?domain=dribbble.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site55",
+    "name": "Figma",
+    "source": "https://www.google.com/s2/favicons?domain=www.figma.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site56",
+    "name": "Canva",
+    "source": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site57",
+    "name": "Framer",
+    "source": "https://www.google.com/s2/favicons?domain=www.framer.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site58",
+    "name": "Webflow",
+    "source": "https://www.google.com/s2/favicons?domain=webflow.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site59",
+    "name": "Notion",
+    "source": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site60",
+    "name": "Obsidian",
+    "source": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site61",
+    "name": "Evernote",
+    "source": "https://www.google.com/s2/favicons?domain=evernote.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site62",
+    "name": "Trello",
+    "source": "https://www.google.com/s2/favicons?domain=trello.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site63",
+    "name": "Asana",
+    "source": "https://www.google.com/s2/favicons?domain=asana.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site64",
+    "name": "Linear",
+    "source": "https://www.google.com/s2/favicons?domain=linear.app&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site65",
+    "name": "ClickUp",
+    "source": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site66",
+    "name": "Monday",
+    "source": "https://www.google.com/s2/favicons?domain=monday.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site67",
+    "name": "Airtable",
+    "source": "https://www.google.com/s2/favicons?domain=airtable.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site68",
+    "name": "Miro",
+    "source": "https://www.google.com/s2/favicons?domain=miro.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site69",
+    "name": "Slack",
+    "source": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "size": [
+      35,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "key": "site70",
+    "name": "Zoom",
+    "source": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site71",
+    "name": "Microsoft Teams",
+    "source": "https://www.google.com/s2/favicons?domain=teams.microsoft.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site72",
+    "name": "Outlook",
+    "source": "https://www.google.com/s2/favicons?domain=outlook.live.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site73",
+    "name": "OneDrive",
+    "source": "https://www.google.com/s2/favicons?domain=onedrive.live.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site74",
+    "name": "Microsoft 365",
+    "source": "https://www.google.com/s2/favicons?domain=www.office.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site75",
+    "name": "Copilot",
+    "source": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site76",
+    "name": "Bing",
+    "source": "https://www.google.com/s2/favicons?domain=www.bing.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site77",
+    "name": "DuckDuckGo",
+    "source": "https://www.google.com/s2/favicons?domain=duckduckgo.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site78",
+    "name": "Brave Search",
+    "source": "https://www.google.com/s2/favicons?domain=search.brave.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site79",
+    "name": "Yahoo",
+    "source": "https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site80",
+    "name": "Proton",
+    "source": "https://www.google.com/s2/favicons?domain=proton.me&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site81",
+    "name": "Tuta",
+    "source": "https://www.google.com/s2/favicons?domain=tuta.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site82",
+    "name": "Fastmail",
+    "source": "https://www.google.com/s2/favicons?domain=www.fastmail.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site83",
+    "name": "Dropbox",
+    "source": "https://www.google.com/s2/favicons?domain=www.dropbox.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site84",
+    "name": "Box",
+    "source": "https://www.google.com/s2/favicons?domain=www.box.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site85",
+    "name": "WeTransfer",
+    "source": "https://www.google.com/s2/favicons?domain=wetransfer.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site86",
+    "name": "MEGA",
+    "source": "https://www.google.com/s2/favicons?domain=mega.nz&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site87",
+    "name": "iCloud",
+    "source": "https://www.google.com/s2/favicons?domain=www.icloud.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site88",
+    "name": "Apple",
+    "source": "https://www.google.com/s2/favicons?domain=www.apple.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site89",
+    "name": "X",
+    "source": "https://www.google.com/s2/favicons?domain=x.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site90",
+    "name": "Facebook",
+    "source": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site91",
+    "name": "Threads",
+    "source": "https://www.google.com/s2/favicons?domain=www.threads.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site92",
+    "name": "TikTok",
+    "source": "https://www.google.com/s2/favicons?domain=www.tiktok.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site93",
+    "name": "Snapchat",
+    "source": "https://www.google.com/s2/favicons?domain=www.snapchat.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site94",
+    "name": "Pinterest",
+    "source": "https://www.google.com/s2/favicons?domain=www.pinterest.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site95",
+    "name": "LinkedIn",
+    "source": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site96",
+    "name": "Tumblr",
+    "source": "https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site97",
+    "name": "Bluesky",
+    "source": "https://www.google.com/s2/favicons?domain=bsky.app&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site98",
+    "name": "Mastodon",
+    "source": "https://www.google.com/s2/favicons?domain=mastodon.social&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site99",
+    "name": "Signal",
+    "source": "https://www.google.com/s2/favicons?domain=signal.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site100",
+    "name": "Messenger",
+    "source": "https://www.google.com/s2/favicons?domain=www.messenger.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site101",
+    "name": "Viber",
+    "source": "https://www.google.com/s2/favicons?domain=www.viber.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site102",
+    "name": "LINE",
+    "source": "https://www.google.com/s2/favicons?domain=line.me&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site103",
+    "name": "Twitch",
+    "source": "https://www.google.com/s2/favicons?domain=www.twitch.tv&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site104",
+    "name": "Kick",
+    "source": "https://www.google.com/s2/favicons?domain=kick.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site105",
+    "name": "Vimeo",
+    "source": "https://www.google.com/s2/favicons?domain=vimeo.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site106",
+    "name": "Dailymotion",
+    "source": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site107",
+    "name": "YouTube Music",
+    "source": "https://www.google.com/s2/favicons?domain=music.youtube.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site108",
+    "name": "SoundCloud",
+    "source": "https://www.google.com/s2/favicons?domain=soundcloud.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site109",
+    "name": "Bandcamp",
+    "source": "https://www.google.com/s2/favicons?domain=bandcamp.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site110",
+    "name": "Deezer",
+    "source": "https://www.google.com/s2/favicons?domain=www.deezer.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site111",
+    "name": "Tidal",
+    "source": "https://www.google.com/s2/favicons?domain=tidal.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site112",
+    "name": "Apple Music",
+    "source": "https://www.google.com/s2/favicons?domain=music.apple.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site113",
+    "name": "Last.fm",
+    "source": "https://www.google.com/s2/favicons?domain=www.last.fm&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site114",
+    "name": "IMDb",
+    "source": "https://www.google.com/s2/favicons?domain=www.imdb.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site115",
+    "name": "Letterboxd",
+    "source": "https://www.google.com/s2/favicons?domain=letterboxd.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site116",
+    "name": "Disney Plus",
+    "source": "https://www.google.com/s2/favicons?domain=www.disneyplus.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site117",
+    "name": "Prime Video",
+    "source": "https://www.google.com/s2/favicons?domain=www.primevideo.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site118",
+    "name": "Hulu",
+    "source": "https://www.google.com/s2/favicons?domain=www.hulu.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site119",
+    "name": "Crunchyroll",
+    "source": "https://www.google.com/s2/favicons?domain=www.crunchyroll.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site120",
+    "name": "Plex",
+    "source": "https://www.google.com/s2/favicons?domain=www.plex.tv&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site121",
+    "name": "Epic Games",
+    "source": "https://www.google.com/s2/favicons?domain=store.epicgames.com&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site122",
+    "name": "GOG",
+    "source": "https://www.google.com/s2/favicons?domain=www.gog.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site123",
+    "name": "EA",
+    "source": "https://www.google.com/s2/favicons?domain=www.ea.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site124",
+    "name": "Ubisoft",
+    "source": "https://www.google.com/s2/favicons?domain=www.ubisoft.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site125",
+    "name": "Battle.net",
+    "source": "https://www.google.com/s2/favicons?domain=www.battle.net&sz=64",
+    "size": [
+      48,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "key": "site126",
+    "name": "Riot Games",
+    "source": "https://www.google.com/s2/favicons?domain=www.riotgames.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site127",
+    "name": "Valorant",
+    "source": "https://www.google.com/s2/favicons?domain=playvalorant.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site128",
+    "name": "League of Legends",
+    "source": "https://www.google.com/s2/favicons?domain=www.leagueoflegends.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site129",
+    "name": "Counter-Strike",
+    "source": "https://www.google.com/s2/favicons?domain=www.counter-strike.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site130",
+    "name": "Fortnite",
+    "source": "https://www.google.com/s2/favicons?domain=www.fortnite.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site131",
+    "name": "Minecraft",
+    "source": "https://www.google.com/s2/favicons?domain=www.minecraft.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site132",
+    "name": "Roblox",
+    "source": "https://www.google.com/s2/favicons?domain=www.roblox.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site133",
+    "name": "Xbox",
+    "source": "https://www.google.com/s2/favicons?domain=www.xbox.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site134",
+    "name": "PlayStation",
+    "ok": true,
+    "source": "https://icons.duckduckgo.com/ip3/www.playstation.com.ico"
+  },
+  {
+    "key": "site135",
+    "name": "Nintendo",
+    "source": "https://www.google.com/s2/favicons?domain=www.nintendo.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site136",
+    "name": "FACEIT",
+    "source": "https://www.google.com/s2/favicons?domain=www.faceit.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site137",
+    "name": "HLTV",
+    "source": "https://www.google.com/s2/favicons?domain=www.hltv.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site138",
+    "name": "Liquipedia",
+    "source": "https://www.google.com/s2/favicons?domain=liquipedia.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site139",
+    "name": "Chess.com",
+    "source": "https://www.google.com/s2/favicons?domain=www.chess.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site140",
+    "name": "Lichess",
+    "source": "https://www.google.com/s2/favicons?domain=lichess.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site141",
+    "name": "itch.io",
+    "source": "https://www.google.com/s2/favicons?domain=itch.io&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site142",
+    "name": "Mod DB",
+    "source": "https://www.google.com/s2/favicons?domain=www.moddb.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site143",
+    "name": "Nexus Mods",
+    "source": "https://www.google.com/s2/favicons?domain=www.nexusmods.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site144",
+    "name": "GitLab",
+    "source": "https://www.google.com/s2/favicons?domain=gitlab.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site145",
+    "name": "Bitbucket",
+    "source": "https://www.google.com/s2/favicons?domain=bitbucket.org&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site146",
+    "name": "Codeberg",
+    "source": "https://www.google.com/s2/favicons?domain=codeberg.org&sz=64",
+    "size": [
+      16,
+      16
+    ],
+    "ok": true
+  },
+  {
+    "key": "site147",
+    "name": "SourceForge",
+    "source": "https://www.google.com/s2/favicons?domain=sourceforge.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site148",
+    "name": "npm",
+    "source": "https://www.google.com/s2/favicons?domain=www.npmjs.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site149",
+    "name": "PyPI",
+    "source": "https://www.google.com/s2/favicons?domain=pypi.org&sz=64",
+    "size": [
+      32,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "key": "site150",
+    "name": "Docker Hub",
+    "source": "https://www.google.com/s2/favicons?domain=hub.docker.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site151",
+    "name": "Vercel",
+    "source": "https://www.google.com/s2/favicons?domain=vercel.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site152",
+    "name": "Netlify",
+    "source": "https://www.google.com/s2/favicons?domain=www.netlify.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site153",
+    "name": "Render",
+    "source": "https://www.google.com/s2/favicons?domain=render.com&sz=64",
+    "size": [
+      24,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "key": "site154",
+    "name": "Railway",
+    "source": "https://www.google.com/s2/favicons?domain=railway.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site155",
+    "name": "DigitalOcean",
+    "source": "https://www.google.com/s2/favicons?domain=www.digitalocean.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site156",
+    "name": "AWS",
+    "source": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site157",
+    "name": "Azure",
+    "source": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site158",
+    "name": "Hetzner",
+    "source": "https://www.google.com/s2/favicons?domain=www.hetzner.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site159",
+    "name": "OVHcloud",
+    "source": "https://www.google.com/s2/favicons?domain=www.ovhcloud.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site160",
+    "name": "Vultr",
+    "source": "https://www.google.com/s2/favicons?domain=www.vultr.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site161",
+    "name": "Linode",
+    "source": "https://www.google.com/s2/favicons?domain=www.linode.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site162",
+    "name": "Oracle Cloud",
+    "source": "https://www.google.com/s2/favicons?domain=www.oracle.com&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site163",
+    "name": "Python",
+    "source": "https://www.google.com/s2/favicons?domain=www.python.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site164",
+    "name": "Rust",
+    "source": "https://www.google.com/s2/favicons?domain=www.rust-lang.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site165",
+    "name": "Go",
+    "source": "https://www.google.com/s2/favicons?domain=go.dev&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site166",
+    "name": "Node.js",
+    "source": "https://www.google.com/s2/favicons?domain=nodejs.org&sz=64",
+    "size": [
+      32,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "key": "site167",
+    "name": "MDN",
+    "source": "https://www.google.com/s2/favicons?domain=developer.mozilla.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site168",
+    "name": "W3Schools",
+    "source": "https://www.google.com/s2/favicons?domain=www.w3schools.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site169",
+    "name": "freeCodeCamp",
+    "source": "https://www.google.com/s2/favicons?domain=www.freecodecamp.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site170",
+    "name": "Coursera",
+    "source": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site171",
+    "name": "edX",
+    "source": "https://www.google.com/s2/favicons?domain=www.edx.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site172",
+    "name": "Udemy",
+    "source": "https://www.google.com/s2/favicons?domain=www.udemy.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site173",
+    "name": "Khan Academy",
+    "source": "https://www.google.com/s2/favicons?domain=www.khanacademy.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site174",
+    "name": "Duolingo",
+    "source": "https://www.google.com/s2/favicons?domain=www.duolingo.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site175",
+    "name": "arXiv",
+    "source": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site176",
+    "name": "ResearchGate",
+    "source": "https://www.google.com/s2/favicons?domain=www.researchgate.net&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site177",
+    "name": "Semantic Scholar",
+    "source": "https://www.google.com/s2/favicons?domain=www.semanticscholar.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site178",
+    "name": "Internet Archive",
+    "source": "https://www.google.com/s2/favicons?domain=archive.org&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site179",
+    "name": "Medium",
+    "source": "https://www.google.com/s2/favicons?domain=medium.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site180",
+    "name": "Substack",
+    "source": "https://www.google.com/s2/favicons?domain=substack.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site181",
+    "name": "WordPress",
+    "source": "https://www.google.com/s2/favicons?domain=wordpress.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site182",
+    "name": "Blogger",
+    "source": "https://www.google.com/s2/favicons?domain=www.blogger.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  },
+  {
+    "key": "site183",
+    "name": "Firestorm",
+    "source": "https://www.google.com/s2/favicons?domain=firestorm-servers.com&sz=64",
+    "size": [
+      64,
+      64
+    ],
+    "ok": true
+  }
+]
